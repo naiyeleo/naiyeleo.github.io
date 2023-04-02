@@ -12,6 +12,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
+  - jekyll-include-cache
   
 relative_links:
   enabled: true
